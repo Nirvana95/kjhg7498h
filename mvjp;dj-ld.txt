@@ -1,1 +1,1 @@
-vless://add4a1e0-c47f-4960-8786-707847184c49@5.78.49.19:443?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&pbk=gQwTTuPZWKXM_zPtF6qWmmXKBr_EfRNLKx9XpZVKXDM&sid=420643fdac6583ee#Joudy
+hysteria://5.78.51.4:10230/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=password#Joudy%20%F0%9F%87%BA%F0%9F%87%B2%F0%9F%90%B6
