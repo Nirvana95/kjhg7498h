@@ -1,1 +1,1 @@
-hysteria://5.78.51.4:10230/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=password#Joudy%20%F0%9F%87%BA%F0%9F%87%B2%F0%9F%90%B6
+vless://42d5e378-3486-4879-a687-a61b6692709c@5.78.51.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.theverge.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=Jr4iPietiwxf4kGExEKHYxwbpnPFkprDn84EdEZ7G20&sid=30529104fcd3e7d0#Joudy
