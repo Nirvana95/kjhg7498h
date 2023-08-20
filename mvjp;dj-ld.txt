@@ -1,1 +1,1 @@
-hysteria://5.78.51.4:10230?upmbps=11&downmbps=55&obfs=xplus&obfsParam=password&insecure=1#Joudy%20%F0%9F%87%BA%F0%9F%87%B2%F0%9F%90%B6
+hysteria://5.161.144.247:443?upmbps=11&downmbps=55&obfs=xplus&obfsParam=password&insecure=1#Joudy%20%F0%9F%87%BA%F0%9F%87%B2%F0%9F%90%B6
