@@ -1,3 +1,4 @@
-vless://02c3a4dc-1a90-41fa-9e43-abe581e2a782@5.78.63.194:31572?security=reality&sni=yourscvwater.com&fp=chrome&pbk=8XjA_OptM7PRoV-MtwAeUsEqI-vNpc_-qscVqNfcsyo&sid=ae910a33&spx=/&type=tcp&encryption=none#Joudy%20Reality%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
-tuic://621412a4-982e-441f-a047-f2596a96014f:joudy@5.78.63.194:2443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#Joudy%20Tuic%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
-vless://ab09b405-3bba-4e4e-8263-4f3e311bd417@iau.ac.ir:443?security=tls&sni=iau.ac.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/sdwgx&host=shop.joudyqueen1.ir&encryption=none#FreeNet%20%F0%9F%A4%AF%F0%9F%98%88%F0%9F%91%BB
+vless://22e441c4-d60c-4725-ae30-dda6c1eff088@5.78.63.194:8443?security=reality&sni=www.yourscvwater.com&alpn=h2,http/1.1&fp=chrome&pbk=ffnFHGR1Kzktpo61qpfVA6pComfJJAV-U7J7hZYJDAE&sid=d58365eccb4d61c9&type=tcp&flow=xtls-rprx-vision&encryption=none#Joudy%20Reality%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
+hy2://joudy95@5.78.63.194:4443?obfs=salamander&obfs-password=joudy95&insecure=1&sni=google.com#Joudy%20Hysteria%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
+tuic://6b45c09b-80ba-41d5-86e6-e5863f908b7f:joudy95@5.78.63.194:2443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#Joudy%20Tuic%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
+vless://d362b72c-0d43-4940-94d3-1165a65a00f2@iau.ac.ir:443?security=tls&sni=iau.ac.ir&alpn=http/1.1&allowInsecure=1&type=ws&path=/jhvlly&host=shop.joudyqueen1.ir&encryption=none#FreeNet%20%F0%9F%A4%AF%F0%9F%98%88%F0%9F%91%BB
