@@ -1,3 +1,4 @@
 tuic://29bd2561-98a7-4b4e-9b6b-27e55f38fc80:f58s6t74vdfs5@5.78.60.60:4474?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#Joudy%20Tuic%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
 vless://fefbf6f5-18b4-4667-89cf-6ebeea8d2e3f@5.78.60.60:4469?security=reality&sni=www.yourscvwater.com&fp=firefox&pbk=tmTjYn5I7GnFNiymqiYL6zZX4f2D9CscQUMiDcCTOXU&sid=1b3eca1e23005113&type=tcp&flow=xtls-rprx-vision&encryption=none#Joudy%20Reality%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
 vless://caade45d-373e-4931-999b-aed7ba4954a4@iau.ac.ir:443?security=tls&sni=iau.ac.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/f45s8gsa&host=asd.panir.ir&encryption=none#FreeNet%20%F0%9F%A4%AF%F0%9F%98%88%F0%9F%91%BB-110GB
+vless://eb551260-2360-406d-ad21-4459639694b8@hel.joudyqueen.ir:443?type=ws&path=%2Fsdf654%24%25%405fs6%2555hg&security=tls&fp=chrome&alpn=http%2F1.1&allowInsecure=1&sni=iau.ac.ir#w5c0caao
