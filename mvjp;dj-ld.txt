@@ -1,3 +1,5 @@
-tuic://8d53f054-df48-4077-8bcc-c8bc572e81d5:ih%5E*3kds45&Dsjk@5.161.144.247:2433?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#Joudy%20Tuic%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
-vless://8fedea5d-6008-456d-9b8b-45b1cf7d6c0f@5.161.144.247:8443?security=reality&sni=www.yourscvwater.com&fp=firefox&pbk=rU3YRKHz9x5RYDmtv0-6ip7Gm7tvfMT17_PjGkr-tGA&sid=0ed62e31762e88e9&type=tcp&flow=xtls-rprx-vision&encryption=none#Joudy%20Reality%20%F0%9F%90%B6%F0%9F%87%BA%F0%9F%87%B2
-vless://20138807-53f9-4ae8-9bdf-52a3c17b52fd@iau.ac.ir:4443?security=tls&sni=iau.ac.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/dsfg*&host=xbox.joudyqueen.ir&encryption=none#FreeNet%20%F0%9F%A4%AF%F0%9F%98%88%F0%9F%91%BB-190GB
+vless://94223561-fdd7-46bc-89fc-911d90a378dc@iau.ac.ir:443?security=tls&sni=iau.ac.ir&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/g85ad3f5&host=xbox.joudyqueen.ir&encryption=none#FreeNet%20%F0%9F%A4%AF%F0%9F%98%88%F0%9F%91%BB-190GB
+vless://2190cc8d-0d50-4653-87de-93b381e73eee@speedtest.net:8654?security=tls&sni=xbox.joudy.online&alpn=http/1.1&fp=firefox&type=ws&encryption=none#WebSocket
+vless://17887ba3-5aab-45e4-8c49-1ad8115b6220@5.78.57.237:2974?security=reality&sni=www.tyusinsurancegroup.com&fp=firefox&pbk=n7jpAar0Wux1MD4_QPsWGIdayIBl-OL0qvaXY7Ryli4&sid=54a5408577e1a609&type=tcp&flow=xtls-rprx-vision&encryption=none#Reality
+tuic://e280569b-753a-4085-8042-ee756ee26407:2e1897f084039fda@5.78.57.237:9176?congestion_control=bbr&alpn=h3,%20spdy/3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#TUIC
+hy2://c21ba05e305bf872@5.78.57.237:8762?obfs=salamander&obfs-password=c8feb8543f6ead93&insecure=1&sni=www.google.com#HY2
